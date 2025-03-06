@@ -54,3 +54,20 @@ This interactive dashboard empowers HR teams to make data-driven decisions, opti
 This project showcases how data analytics and visualization tools like Power BI can revolutionize sports analytics.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
+
+**4.📊 Customer Behavior Analysis – Clustering Dashboard**
+
+🚀 Key Features
+✔ Customer Segmentation: Uses clustering to group customers by behavior
+✔ Purchase Trends: Visual insights into spending patterns and frequency
+✔ Demographics Analysis: Understand customer distribution by age, location, and preferences
+✔ Engagement Insights: Identify high-value customers and retention opportunities
+✔ Interactive Visuals: Slicers, charts, and filters for dynamic exploration
+
+🛠 Tech Stack
+Power BI – Data visualization and dashboarding
+Clustering Techniques – Applied for customer segmentation
+DAX & Data Modeling – Used for calculations and relationships
+This dashboard helps businesses personalize marketing, improve customer retention, and optimize sales strategies.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
